@@ -15,7 +15,7 @@ const STORES = [
   { id: "ST11", name: "北海道札幌店" },
   { id: "ST12", name: "三重長島アウトレット店" },
   { id: "ST13", name: "京都コトチカ店" },
-  { id: "ST14", name: "愛知サカエ店" },
+  { id: "ST14", name: "那覇空港店" },
 ];
 
 const PRODUCTS = [
