@@ -48,7 +48,7 @@ const PRODUCTS = [
   { id: "9701702", code: "9701702", name: "フルーツチョコ オレンジ", category: "フルーツチョコ", unit: "PCS" },
   { id: "9701703", code: "9701703", name: "フルーツチョコ レモン＆ジンジャー", category: "フルーツチョコ", unit: "PCS" },
   { id: "9701704", code: "9701704", name: "フルーツチョコ ココナッツ", category: "フルーツチョコ", unit: "PCS" },
-  { id: "9701711", code: "9701711", name: "和柄コレクション 鶴 6粒入", category: "ギフト", unit: "PCS" },
+  { id: "9701711", code: "9701711", name: "和柄コレクション 鶴 7粒入", category: "ギフト", unit: "PCS" },
   { id: "9701720", code: "9701720", name: "クリアランスバッグ L3", category: "業務用", unit: "PCS" },
 ];
 
